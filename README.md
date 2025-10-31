@@ -1,6 +1,8 @@
 # Generative-AI-with-Python-and-TensorFlow-2
 Generative-AI-with-Python-and-TensorFlow-2
 --------------------
+https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2
+--------------------
 This Repo Have Following Info.
 
 Implement paired and unpaired style transfer with networks like StyleGAN
